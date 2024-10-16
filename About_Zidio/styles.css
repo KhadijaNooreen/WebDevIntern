@@ -41,7 +41,7 @@ body {
 .circle {
     width: 150px;
     height: 150px;
-    background-color: #0056b3;
+    background-color: #3B3030;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -85,7 +85,7 @@ blockquote {
 button {
     margin-top: 20px;
     padding: 10px 20px;
-    background-color: #0056b3;
+    background-color: #3B3030;
     color: white;
     border: none;
     border-radius: 5px;
